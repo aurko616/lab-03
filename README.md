@@ -2,8 +2,8 @@
 
 Student Details
 
-Full Name: <Aurko Mazumder>
-CCID: <mazumde1>
+Full Name: <AurkoMazumder>
+CCID: <mazumde1> 
 References and Resources
 
 1.Stack Overflow 2. Android Programming: The Big Nerd Ranch Guide” by Bill Phillips, Chris Stewart, and Kristin Marsicano.
