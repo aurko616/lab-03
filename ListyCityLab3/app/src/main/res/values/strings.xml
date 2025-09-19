@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ListyCityLab3</string>
+
+    <string name="edit_city">Edit City</string>
+    <string name="save">Save</string>
+    <string name="add_city" />
+    <string name="City">city</string>
+    <string name="Province">province</string>
+</resources>
