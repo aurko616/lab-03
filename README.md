@@ -1,9 +1,12 @@
 # CMPUT 301 : Lab 3 Participation Exercise
 
-## References and Resources
+Student Details
 
-List any resources used here, or simply put `N/A` if not applicable.
+Full Name: <Aurko Mazumder>
+CCID: <mazumde1>
+References and Resources
 
+1.Stack Overflow 2. Android Programming: The Big Nerd Ranch Guide” by Bill Phillips, Chris Stewart, and Kristin Marsicano.
 ## Verbal Collaboration
 
 | Student Name | CCID      |
